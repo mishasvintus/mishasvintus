@@ -24,6 +24,6 @@ PostgreSQL, Redis, Kafka, Docker, Linux, Kubernetes
 
 ## Links
 
-GitHub: https://github.com/mishasvintus
+GitHub: https://github.com/michaelbumble
 
 Telegram: https://t.me/mgoncharov
