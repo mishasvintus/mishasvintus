@@ -1,6 +1,6 @@
 # Hi, I'm Mikhail
 
-Backend developer working with **Go** and **Python**.
+Backend developer working with **Rust**, **Go** and **Python**.
 
 Interested in:
 - distributed systems
@@ -12,11 +12,7 @@ Interested in:
 
 **Languages**
 
-Go, Python, C++
-
-**Backend**
-
-Gin, FastAPI, Django, gRPC
+Rust, Go, Python, C++
 
 **Infrastructure**
 
